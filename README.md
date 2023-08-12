@@ -1,4 +1,7 @@
 # Handwritten-digit-classification-using-CNN
+
+This was as an exercise for my understandings of CNN and computer vision based on my research in the SOS program.
+
 Initially I Imported Crucial libraries like numpy, matplotlib and tensorflow.
 The next step was importing the 60,000 mnist handwritten digits dataset using Keras API from Tensorflow
 The mnist is a standard dataset for image recognition for handwritten digits
